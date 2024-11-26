@@ -1,0 +1,9 @@
+[tool.ruff]
+# Line length configuration
+line-length = 120
+
+
+[tool.ruff.format]
+quote-style = "single"
+
+exclude = ["rublimp/*"]
